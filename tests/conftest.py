@@ -2,8 +2,8 @@ import pytest
 
 from selene import browser
 
-LOGIN = "di7051@gmail.com"
-PASSWORD = "T9tBaN!jx$XqC"
+LOGIN = "example1200@example.com"
+PASSWORD = "123456"
 BASE_URL = "https://demowebshop.tricentis.com/"
 
 
